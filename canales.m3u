@@ -1,0 +1,5 @@
+#EXTM3U
+
+
+#EXTINF:-1,TELEFE 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
